@@ -1,8 +1,8 @@
 # Hello 👋 I am Saannddy
 
 - 🌍 I'm from Thailand
-- 👨‍💻 Check out my portfolio at [MyPortfolio](http://ppoomjr.tech)
-- 📄 Check out my resume at [MyResume](http://ppoomjr.tech)
+- 👨‍💻 Check out my portfolio at [MyPortfolio](https://pathompum-web.vercel.app/)
+- 📄 Check out my resume at [MyResume](https://pathompum-web.vercel.app/)
 
 ### Social
 
