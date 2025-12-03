@@ -24,9 +24,8 @@
 
 ### Hobbies
 <a href="https://leetcode.com/u/PathompumJ/" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" />
-</picture>
+  
+[![Saannddy's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=PathompumJ&theme=Dark)](https://github.com/Saannddy/leetcode-stats)
 </a> &nbsp;
 <a href="https://www.hackerrank.com/profile/pathompum47" target="_blank" rel="noreferrer">
 <picture>
