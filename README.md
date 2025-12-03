@@ -1,4 +1,4 @@
-# Hello 👋 I am Saannddy
+# Hello 👋 I am Saannddy ![](https://komarev.com/ghpvc/?username=Saannddy&style=flat-square&color=green)
 
 - 🌍 I'm from Thailand
 - 👨‍💻 Check out my portfolio at [MyPortfolio](https://pathompum-web.vercel.app/)
