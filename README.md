@@ -37,6 +37,7 @@
 <img height="30" width="30" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/vrb9yt0hpbyszpsewjwc" alt="thm" />
 </picture>
 </a> &nbsp;
+[![Saannddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saannddy&show_icons=true&theme=dark)](https://github.com/Saannddy/github-readme-stats)
 
 
 ## 💻 Programming Languages
