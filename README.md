@@ -26,17 +26,7 @@
 <a href="https://leetcode.com/u/Saannddy/" target="_blank" rel="noreferrer">
   
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Saannddy)](https://leetcode.com/Saannddy)
-</a> &nbsp;
-<a href="https://www.hackerrank.com/profile/pathompum47" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="hackerrank" />
-</picture>
-</a> &nbsp;
-<a href="https://tryhackme.com/p/Pathompum" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/vrb9yt0hpbyszpsewjwc" alt="thm" />
-</picture>
-</a> &nbsp;
+</a>
 
 <b>My GitHub Stats</b>
 
