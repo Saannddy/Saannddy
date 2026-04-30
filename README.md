@@ -1,6 +1,6 @@
 # Hello 👋 I am Saannddy ![](https://komarev.com/ghpvc/?username=Saannddy&style=flat-square&color=green)
 
-🌍 **Location:** Thailand  
+🌍 **Location:** Bangkok, Thailand  
 👨‍💻 **Portfolio:** [pathompum-web.vercel.app](https://pathompum-web.vercel.app/)  
 📄 **Resume:** [View Resume](https://pathompum-web.vercel.app/)
 
