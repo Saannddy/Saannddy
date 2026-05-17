@@ -30,6 +30,8 @@
 
 <b>My GitHub Stats</b>
 
+![Phoom's GitHub stats](https://streak-stats.demolab.com/?user=Saannddy)
+
 <p align="center">
   <a href="https://github.com/Saannddy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saannddy&langs_count=18&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20Top%20%20Languages" alt="Most Used Languages" /></a>
