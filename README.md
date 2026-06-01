@@ -28,6 +28,8 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Saannddy)](https://leetcode.com/Saannddy)
 </a>
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Saannddy&animated=true&theme=github-dark" alt="LeetCode Badges" />
+
 <b>My GitHub Stats</b>
 
 ![Phoom's GitHub stats](https://streak-stats.demolab.com/?user=Saannddy)
