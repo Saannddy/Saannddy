@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Saannddy 👋</h1>
+<p align="center">
+  <a href="https://github.com/Saannddy">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=0891b2&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Saannddy+%F0%9F%91%8B;Full-stack+Developer;Creative+Tinkerer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saannddy&style=flat-square&color=0891b2&label=Profile+Views" alt="profile views" />
@@ -34,27 +38,19 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img width="624" src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,dart,golang,java,javascript,typescript,python,html,css,bash,powershell,markdown,flask,expressjs,spring,react,nextjs,vuejs,vite,flutter,bootstrap,tailwindcss,daisyui,chakraui,matplotlib,numpy,pandas,scikitlearn,scipy,pytorch,tensorflow,sqlite,mysql,mongodb,elasticsearch,aws,vercel,apache,git,github,npm,jwt,anaconda,cuda,figma,photoshop,illustrator,premiere,aftereffects,blender,canva,lightroom" alt="languages" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saannddy&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Saannddy's GitHub stats" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Saannddy&theme=dark&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub streak" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saannddy&langs_count=18&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-</p> -->
+</p>
 
 ---
 
